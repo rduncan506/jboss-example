@@ -1,4 +1,4 @@
-jboss-sap-integration
+jboss-example
 =====================
 
-This repository host examples of integration between Red Hat JBoss and SAP technologies including SAP Gateway and SAP Services Registry among others.  
+This repository hosts examples of Red Hat JBoss.
